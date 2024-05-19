@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/admin/CommaProjects/QSJKip1004/QSJKip1004-ejb/src/java/kip1004/qsjkip1004/Output.java</file>
+            <file>file:/home/admin/CommaProjects/QSJKip1004/QSJKip1004-ejb/src/java/kip1004/qsjkip1004/PopupFactoryAccessor.java</file>
+            <file>file:/home/admin/CommaProjects/QSJKip1004/QSJKip1004-ejb/src/java/kip1004/qsjkip1004/RejectedAlternatives.java</file>
+            <file>file:/home/admin/CommaProjects/QSJKip1004/QSJKip1004-ejb/src/java/kip1004/qsjkip1004/DropTasksFalingConnectors.java</file>
+            <file>file:/home/admin/CommaProjects/QSJKip1004/QSJKip1004-ejb/src/java/kip1004/qsjkip1004/Factory.java</file>
+            <file>file:/home/admin/CommaProjects/QSJKip1004/QSJKip1004-ejb/src/java/kip1004/qsjkip1004/HostListener.java</file>
+            <file>file:/home/admin/CommaProjects/QSJKip1004/QSJKip1004-ejb/src/java/kip1004/qsjkip1004/TestPlan.java</file>
+            <file>file:/home/admin/CommaProjects/QSJKip1004/QSJKip1004-ejb/src/java/kip1004/qsjkip1004/ConvertInstruction.java</file>
+            <file>file:/home/admin/CommaProjects/QSJKip1004/QSJKip1004-ejb/src/java/kip1004/qsjkip1004/Status.java</file>
+            <file>file:/home/admin/CommaProjects/QSJKip1004/QSJKip1004-ejb/src/java/kip1004/qsjkip1004/DropHandler.java</file>
+            <file>file:/home/admin/CommaProjects/QSJKip1004/QSJKip1004-ejb/src/java/kip1004/qsjkip1004/Interface.java</file>
+            <file>file:/home/admin/CommaProjects/QSJKip1004/QSJKip1004-ejb/src/java/kip1004/qsjkip1004/DataDirectory.java</file>
+            <file>file:/home/admin/CommaProjects/QSJKip1004/QSJKip1004-ejb/src/java/kip1004/qsjkip1004/VerificationTypeInfo.java</file>
+            <file>file:/home/admin/CommaProjects/QSJKip1004/QSJKip1004-ejb/src/java/kip1004/qsjkip1004/Compatibility.java</file>
+            <file>file:/home/admin/CommaProjects/QSJKip1004/QSJKip1004-ejb/src/java/kip1004/qsjkip1004/NextAction.java</file>
+            <file>file:/home/admin/CommaProjects/QSJKip1004/QSJKip1004-ejb/src/java/kip1004/qsjkip1004/CheckboxMenuItemAccessor.java</file>
+            <file>file:/home/admin/CommaProjects/QSJKip1004/QSJKip1004-ejb/src/java/kip1004/qsjkip1004/ContextNodeList.java</file>
+            <file>file:/home/admin/CommaProjects/QSJKip1004/QSJKip1004-ejb/src/java/kip1004/qsjkip1004/Deprecation.java</file>
+            <file>file:/home/admin/CommaProjects/QSJKip1004/QSJKip1004-ejb/src/java/kip1004/qsjkip1004/Test.java</file>
+            <file>file:/home/admin/CommaProjects/QSJKip1004/QSJKip1004-ejb/src/java/kip1004/qsjkip1004/NextMinorRelease.java</file>
+            <file>file:/home/admin/CommaProjects/QSJKip1004/QSJKip1004-ejb/src/java/kip1004/qsjkip1004/FormalParameterTarget.java</file>
+            <file>file:/home/admin/CommaProjects/QSJKip1004/QSJKip1004-ejb/src/java/kip1004/qsjkip1004/Motivation.java</file>
+            <file>file:/home/admin/CommaProjects/QSJKip1004/QSJKip1004-ejb/src/java/kip1004/qsjkip1004/OptEnforcement.java</file>
+            <file>file:/home/admin/CommaProjects/QSJKip1004/QSJKip1004-ejb/src/java/kip1004/qsjkip1004/MetaAccessProvider.java</file>
+            <file>file:/home/admin/CommaProjects/QSJKip1004/QSJKip1004-ejb/src/java/kip1004/qsjkip1004/LocaleDataProvider.java</file>
+            <file>file:/home/admin/CommaProjects/QSJKip1004/QSJKip1004-ejb/src/java/kip1004/qsjkip1004/AFutureMajorRelease.java</file>
+            <file>file:/home/admin/CommaProjects/QSJKip1004/QSJKip1004-ejb/src/java/kip1004/qsjkip1004/MapNode.java</file>
+            <file>file:/home/admin/CommaProjects/QSJKip1004/QSJKip1004-ejb/src/java/kip1004/qsjkip1004/AllPathReleasesOnOlderVersions.java</file>
+            <file>file:/home/admin/CommaProjects/QSJKip1004/QSJKip1004-ejb/src/java/kip1004/qsjkip1004/TypeArg.java</file>
+            <file>file:/home/admin/CommaProjects/QSJKip1004/QSJKip1004-ejb/src/java/kip1004/qsjkip1004/DialogPeer.java</file>
+            <file>file:/home/admin/CommaProjects/QSJKip1004/QSJKip1004-ejb/src/java/kip1004/qsjkip1004/VectorBlendOp.java</file>
+            <file>file:/home/admin/CommaProjects/QSJKip1004/QSJKip1004-ejb/src/java/kip1004/qsjkip1004/PlanarConfiguration.java</file>
+            <file>file:/home/admin/CommaProjects/QSJKip1004/QSJKip1004-ejb/src/java/kip1004/qsjkip1004/ClientPropertyKeyAccessor.java</file>
+            <file>file:/home/admin/CommaProjects/QSJKip1004/QSJKip1004-ejb/src/java/kip1004/qsjkip1004/FormatDataProvider.java</file>
+            <file>file:/home/admin/CommaProjects/QSJKip1004/QSJKip1004-ejb/src/java/kip1004/qsjkip1004/PublicInterfaces.java</file>
+            <file>file:/home/admin/CommaProjects/QSJKip1004/QSJKip1004-ejb/src/java/kip1004/qsjkip1004/MigrationPlan.java</file>
+        </group>
+    </open-files>
+</project-private>
